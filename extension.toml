@@ -1,0 +1,7 @@
+id = "forest-rain-theme"
+name = "Forest Rain"
+version = "0.0.1"
+schema_version = 1
+authors = ["yistc]
+description = "A light theme that is beautiful, minimalistic, and good for eyes"
+repository = "https://github.com/yistc/zed-forest-rain-theme"
